@@ -1,4 +1,4 @@
-name = blue_girl_5
+name = blue_girl_5.1
 type = body+head
 scale = 1
 filename = blue_girl_5/blue_girl_5.1.fbx
